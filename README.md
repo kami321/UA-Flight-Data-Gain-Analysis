@@ -57,3 +57,5 @@ Based on the above Relative Gain Very Late Departure (gain_per_hour >= 30) permu
 ![4](https://user-images.githubusercontent.com/81647911/212744711-d3715561-2323-4589-81a0-f24d18d33b0f.png)
 
 Based on the above Flight Duration Relative Gain permutation test results, we may conclude that there is a statistically significant difference in average relative gain between long flights and short flights because the p-value is 0.002, which is less than 0.05.
+
+
